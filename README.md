@@ -20,7 +20,7 @@ It breaks down VPN concepts in a simple, beginner-friendly format — and gradua
 
 ## 📷 Documentation with Screenshots
 
-📄 [Download Full Project Document (Word)](VPN_Learning_Guide.docx)
+📄 [Download Full Document (Word)](VPN_Learning_Guide.docx)
 
 ---
 
